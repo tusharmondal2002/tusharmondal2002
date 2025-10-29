@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tushar Mondal.
-- 👀 I’m interested in Data Analytics,Product Management and Web development.
-- 🌱 I’m currently a Second year undergrad at Indian Institute of Technology Kharagpur.
-- 💞️ I’m looking to collaborate on various development and data driven projects.
+- 👀 I’m interested in Product Management, Strategy, and Analytics-related fields.
+- 🌱 I’m currently a Final Year undergrad at the Indian Institute of Technology (IIT) Kharagpur.
+- 💞️ I’m looking to collaborate on various new product development and data-driven projects.
 - 📫 reach me by mailing your queries at tusharmondal192@gmal.com
 
 <!---
